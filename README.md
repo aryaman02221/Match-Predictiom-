@@ -1,4 +1,4 @@
-# Premier League
+# Match Prediction Algorithm
 Welcome to my football match prediction model! As a huge football fan, I've combined my love for the sport with machine learning to build a predictive model that forecasts the outcome of football matches. This project explores the power of data-driven insights to anticipate match results, factoring in key variables that impact the game.
 
 Features:
